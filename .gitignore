@@ -1,0 +1,5 @@
+*.pyc
+venv/
+build/
+Pulumi.dev.yaml
+Pulumi.yaml
